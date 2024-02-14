@@ -21,7 +21,7 @@ Hello there! I'm Sagar, a passionate Frontend Software Engineer currently workin
 
 ## Get in Touch📫
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sagarchauhan-devp)
+- LinkedIn: [Sagar Chauhan Dev](https://www.linkedin.com/in/sagarchauhan-devp)
 
 Feel free to reach out if you have any questions, want to collaborate, or just chat about technology and coding. Looking forward to connecting with like-minded individuals!
 
