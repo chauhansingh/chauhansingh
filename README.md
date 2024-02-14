@@ -4,7 +4,7 @@
 
 Hello there! I'm Sagar, a passionate Frontend Software Engineer currently working at Convin. I specialize in building robust and user-friendly web applications using cutting-edge technologies. With a strong foundation in React, webpack, Redux, and UI libraries such as Material UI and Ant Design, I bring creativity and technical expertise to the projects I work on.
 
-## Tech Stacks
+## Tech Stacks👯
 
 - **JavaScript**: Proficient in ES6 and staying up-to-date with the latest language features.
 - **React**: Building scalable and responsive user interfaces with the React library.
@@ -12,8 +12,14 @@ Hello there! I'm Sagar, a passionate Frontend Software Engineer currently workin
 - **Redux**: State management for large-scale applications.
 - **HTML/CSS/SCSS**: Crafting semantic and visually appealing styles for web applications.
 - **Material UI and Ant Design**: Leveraging these UI libraries for consistent and polished designs.
+- **Cloud Services**: Experience working with Amazon Web Services (AWS), Oracle Cloud, and other cloud platforms.
 
-## Get in Touch
+## Additional Skills🔭
+
+- **Version Control**: Proficient with Git and Git-based systems for collaborative development.
+- **Operating Systems**: Familiar with both Linux and Windows environments.
+
+## Get in Touch📫
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sagarchauhan-devp)
 
